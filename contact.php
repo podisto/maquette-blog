@@ -39,19 +39,19 @@
                 </div>
                 <div id="success"></div>
                 <!-- For success/fail messages -->
-                <button type="submit" class="btn btn-primary">Envoyez</button>
+                <button type="submit" class="btn btn-primary">Envoyer</button>
             </form>
         </div>
         <!-- Contact Details Column -->
         <div class="col-md-4">
-            <h3>Contact Details</h3>
+            <h3>Adresses</h3>
             <p>
-                3481 Melrose Place<br>Beverly Hills, CA 90210<br>
+                Yoff tonghor Dakar<br>800000<br>
             </p>
             <p><i class="fa fa-phone"></i>
-                <abbr title="Phone">P</abbr>: (123) 456-7890</p>
+                <abbr title="Phone">Tel</abbr>: (221) 77 299 68 38</p>
             <p><i class="fa fa-envelope-o"></i>
-                <abbr title="Email">E</abbr>: <a href="mailto:name@example.com">name@example.com</a>
+                <abbr title="Email">E</abbr>: <a href="mailto:name@example.com">contact@example.com</a>
             </p>
         </div>
     </div>
